@@ -1,0 +1,2 @@
+This repository contains a collection of JavaScript exercises, ranging from basic array and object manipulation to more complex functions.
+The purpose of this project is to enhance my JavaScript skills and track my learning journey.
